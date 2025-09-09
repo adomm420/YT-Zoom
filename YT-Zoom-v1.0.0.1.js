@@ -3,6 +3,7 @@
   🔧  Version:   1.0.0.1
   📅  Updated:   2025-09-09
   👤  Author:    Mantas Adomavičius
+  🌐  Repo:      https://github.com/adomm420/YT-Zoom
   🧠  Description:
        Zooms the YouTube HTML5 player by 1.25× using a fixed overlay while
        keeping controls visible and the page usable. Click again to restore.
